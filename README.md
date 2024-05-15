@@ -1,4 +1,4 @@
-# Verus Miner 9000
+# 0% Fee Verus Miner
 
 A high performance and open-source application for mining Veruscoin on Android mobile devices.
 
