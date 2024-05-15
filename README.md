@@ -69,7 +69,8 @@ The stats about the hashrate and the accepted shares are then presented in the D
 The application will keep mining even when your device is on standby mode. So keep in mind that even if your phone screen is off, your device may still be running.
 
 ## Donations
-* VRSC: `RKE5YdseSU6becMtpHKn4z9N4ahRkqm1cV`
+* VRSC: `RLsyTZvG9w6FRn4m7GXrkbkcKUMQRVwSKa`
+* BTC: `bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth`
 
 ## Credits
 * Forked from [MobileMiner](https://github.com/scala-network/MobileMiner)
