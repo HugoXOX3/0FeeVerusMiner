@@ -2,12 +2,6 @@
 
 A high performance and open-source application for mining Veruscoin on Android mobile devices.
 
-'''
-<p align="center">
-  <img src="https://wiki.veruscoin.io/img/favicon.png" width="128" title="Veruscoin">
-</p>
-'''
-
 ## Supported CPU instruction sets
 - **arm64-v8a**
 - **x86-64**
