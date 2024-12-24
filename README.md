@@ -66,7 +66,6 @@ The application will keep mining even when your device is on standby mode. So ke
 
 ## Donations
 * VRSC: `RLsyTZvG9w6FRn4m7GXrkbkcKUMQRVwSKa`
-* BTC: `bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth`
 
 ## Credits
 * Forked from [MobileMiner](https://github.com/scala-network/MobileMiner)
